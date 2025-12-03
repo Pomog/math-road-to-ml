@@ -2,7 +2,7 @@
 
 ## Structure
 
-- `Algebra` — *Practical Algebra: A Self-Teaching Guide, 2nd Edition*
+- `Algebra` — *Practical Algebra: A Self-Teaching Guide, 2nd Edition* (03.12.2025)
   - This is not an exhaustive or very deep text, but it gives a solid overview of basic and some intermediate algebra concepts.
   - Explanations are clear and step-by-step, suitable for beginners or anyone who needs a refresher.
   - Uses a strong *learn-by-doing* approach: numerous worked examples, frequent mini-quizzes, and self-tests provide immediate feedback.
